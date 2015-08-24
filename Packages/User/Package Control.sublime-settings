@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ConvertToUTF8",
+		"CTags",
+		"Package Control",
+		"PackageResourceViewer",
+		"Theme - Brogrammer"
+	]
+}
