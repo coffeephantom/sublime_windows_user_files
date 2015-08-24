@@ -52,10 +52,10 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/lenovo/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+					"file": "/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 607,
+						"buffer_size": 573,
 						"line_ending": "Unix"
 					}
 				}
@@ -67,10 +67,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "pci",
+				"height": 293.0,
+				"last_filter": "user",
 				"selected_items":
 				[
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
 					[
 						"pci",
 						"Package Control: Install Package"
@@ -90,10 +94,6 @@
 					[
 						"pi",
 						"Package Control: Install Package"
-					],
-					[
-						"user",
-						"Preferences: Settings - User"
 					]
 				],
 				"width": 408.0
@@ -121,6 +121,7 @@
 			],
 			"file_history":
 			[
+				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
 				"/Z/cpp/Hesitage/H_l4/Makefile",
 				"/Z/cpp/Hesitage/H_l4/Person.h",
 				"/Z/cpp/Hesitage/H_l4/Soldier.h",
@@ -217,27 +218,29 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/lenovo/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+							"file": "/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 607,
+								"buffer_size": 573,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										27,
-										27
+										569,
+										569
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -289,7 +292,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,684,694,84,1366",
+			"position": "0,2,3,-32000,-32000,-1,-1,684,694,84,1366",
 			"project": "",
 			"replace":
 			{
