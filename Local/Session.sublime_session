@@ -59,10 +59,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "pci",
+				"height": 293.0,
+				"last_filter": "user",
 				"selected_items":
 				[
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
 					[
 						"pci",
 						"Package Control: Install Package"
@@ -82,10 +86,6 @@
 					[
 						"pi",
 						"Package Control: Install Package"
-					],
-					[
-						"user",
-						"Preferences: Settings - User"
 					]
 				],
 				"width": 408.0
@@ -107,12 +107,15 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/Z/cpp/Hesitage/H_l4"
-			],
 			"file_history":
 			[
+				"/Z/python_packages/psutil-3.1.1/examples/top.py",
+				"/D/Python27/lib/site-packages/psutil/__init__.py",
+				"/Z/python_packages/psutil-3.1.1/examples/netstat.py",
+				"/Z/python_packages/psutil-3.1.1/examples/meminfo.py",
+				"/Z/python_packages/psutil-3.1.1/test/test_memory_leaks.py",
+				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Z/cpp/Hesitage/H_l4/Makefile",
 				"/Z/cpp/Hesitage/H_l4/Person.h",
 				"/Z/cpp/Hesitage/H_l4/Soldier.h",
@@ -151,7 +154,6 @@
 				"/Z/cpp/les7/classdemo.cpp",
 				"/Z/cpp/les9/package.cpp",
 				"/Z/cpp/les1/main.cpp",
-				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/Monokai Gray/README.md",
 				"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
@@ -190,19 +192,8 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "Z:\\cpp\\Hesitage\\H_l4"
-				}
-			],
 			"groups":
 			[
-				{
-					"sheets":
-					[
-					]
-				},
 				{
 					"sheets":
 					[
@@ -226,18 +217,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -286,7 +270,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},

@@ -12,13 +12,12 @@
 	"ignored_packages":
 	[
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"tab_size": 4,
 	"theme": "Brogrammer.sublime-theme",
 	"translate_tabs_to spaces": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "auto",
-	"wrap_width": 80,
-	"line_padding_top": 1,
-	"line_padding_bottom": 1
-
+	"wrap_width": 80
 }
