@@ -16,8 +16,8 @@
 	"line_padding_top": 1,
 	"tab_size": 4,
 	"theme": "Brogrammer.sublime-theme",
-	"translate_tabs_to spaces": true,
+	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "auto",
-	"wrap_width": 120
+	"wrap_width": 80
 }
